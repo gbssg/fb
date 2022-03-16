@@ -1,5 +1,7 @@
 site_name: Modul 346 - Cloudlösungen konzipieren und realisieren
 site_url: "https://oliverlux.github.io/modul346"
+repo_url: "https://github.com/gbssg/m346"
+edit_uri: "blob/main/docs/"
 
 nav:
   - 0. Übersicht: index.md

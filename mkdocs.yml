@@ -4,30 +4,19 @@ repo_url: "https://github.com/gbssg/fb"
 edit_uri: "blob/main/docs/"
 
 nav:
-  - 0. Übersicht: index.md
-  - 1. Begrifflichkeiten:
-    - Cloud Computing: 1-10.md
-    - Betriebsmodelle: 1-20.md
-    - Hyperscaler: 1-30.md
-    - Computer-Optionen: 1-40.md
-  - 2. Cloud Services:
-    - Speicherung Hauptdatentypen: 2-10.md
-    - Verantwortlichkeiten Cloud Services: 2-20.md
-  - 3. Netzwerkkonzept:
-    - virtuelle private Cloud: 3-10.md
-    - Anbindungsmöglichkeiten: 3-20.md
-    - Routing: 3-30.md
-    - Netzwerksicherheit: 3-40.md
-  - 4. Hyperscaler:
-    - Infrastruktur: 4-10.md
-    - Best Practices: 4-20.md
-    - Informationsquellen (Referenzarchitekturen, Security Dokumentation): 4-30.md
-  - 5. Cloudmigration:
-    - Kostenmodelle, Kostenanalysen: 5-10.md
-    - Lift-and-Shift, Lift-and-Reshape: 5-20.md
-    - Begrifflichkeiten (Verfügbarkeit, Datensicherheit und -resilienz, Hochverfügbarkeit, Disaster Recovery und Backup): 5-30.md
-    - Entwicklung einer einfachen Gesamtarchitektur, Definition von relevanten Cloud-Services: 5-40.md
-    - Testkonzept zur Überprüfung von Funktionalität, Performance und Sicherheit: 5-50.md
+  - Willkommen: index.md
+  - Allgmeine Informationen:
+    - Modulinformationen: 1-10.md
+    - Leistungsbeurteilungsvorgaben (LBV): 1-20.md
+    - Lizenzen: 1-30.md
+    - BYOD: 1-40.md
+    - Weiterführende Links: 1-50.md
+  - Informatiker EFZ:
+    - Applikations- und Plattformentwicklung: 2-10.md
+  - ICT-Fachfrau/-mann EFZ:
+    - Informationen: 3-10.md
+  - Entwickler/in digitales Business EFZ:
+    - Aktueller Stand: 4-10.md
 
 theme:
   name: material

@@ -1,7 +1,9 @@
-# Kapitel 1
-Dokumentation in Markdown
+# Modulinformationen
 
-## Markdown
+
+## Übersicht der Module
+
+[Modulbaukasten](https://www.modulbaukasten.ch)
 
 ```
 # Heading 1

@@ -6,17 +6,17 @@ edit_uri: "blob/main/docs/"
 nav:
   - Willkommen: index.md
   - Allgmeine Informationen:
-    - Modulinformationen: 1-10.md
-    - Leistungsbeurteilungsvorgaben (LBV): 1-20.md
-    - Lizenzen: 1-30.md
-    - BYOD: 1-40.md
-    - Weiterführende Links: 1-50.md
+    - Modulinformationen: modulinformationen.md
+    - Leistungsbeurteilungsvorgaben (LBV): lbv.md
+    - Lizenzen: lizenzen.md
+    - BYOD: byod.md
+    - Weiterführende Links: links.md
   - Informatiker EFZ:
-    - Applikations- und Plattformentwicklung: 2-10.md
+    - Applikations- und Plattformentwicklung: informatiker.md
   - ICT-Fachfrau/-mann EFZ:
-    - Informationen: 3-10.md
+    - Informationen: ict.md
   - Entwickler/in digitales Business EFZ:
-    - Aktueller Stand: 4-10.md
+    - Aktueller Stand: edb.md
 
 theme:
   name: material

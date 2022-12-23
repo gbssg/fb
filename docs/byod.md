@@ -30,4 +30,4 @@ Verlängern Sie Ihre Garantie, wenn immer möglich auf die Dauer Ihrer Lehrzeit.
 Eine Gerätereparatur kann bis zu 8-10 Wochen dauern. Ist Ihr Gerät nicht einsatzfähig, so stehten am GBS keine Leihgeräte zur Verfügung.
 Hinweis: Bei einer "On-Site"-Garantie repariert ein Techniker das Gerät bei Ihnen vor Ort. Das Gerät ist so in der Regel deutlich schneller wieder einsatzbereit, als wenn es mit einer Standardgarantie per Post an ein Reparaturcenter gesendet werden muss.
 
-**Das GBS leistet keinen Gerätesupport. Lehrpersonen unterstützen Sie bei der Installation aber der ersten Schulwoche im August.**
+**Das GBS leistet keinen Gerätesupport. Lehrpersonen unterstützen Sie bei der Installation ab der ersten Schulwoche im August.**

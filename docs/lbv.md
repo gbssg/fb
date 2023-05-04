@@ -1,6 +1,6 @@
 # Leistungsbeurteilungsvorgaben (LBV)
 
-Die Semesterprüfungen werden gemäss den "Leistungsbeurteilungsvorgaben (LBV)" durchgeführt und bewertet. Die Leistung wird im Semesterzeugnis ausgestellt. Die verwendeten LBVs werden weiter unten referenziert.
+Die Semesterprüfungen werden gemäss den "Leistungsbeurteilungsvorgaben (LBV)" durchgeführt und bewertet. Die Leistung wird im Semesterzeugnis ausgestellt. Die verwendeten LBVs werden bei den entsprechenden Berufen aufgelistet.
 
 Die Semesterprüfungen werden aktuell wie folgt gehandhabt:
 

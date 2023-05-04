@@ -1,6 +1,7 @@
 :root {
     --md-primary-fg-color:        #CCCC00;
     --md-accent-fg-color:			#8A9100;
+    font-size: 22px;
   }
   
   .container {
@@ -19,16 +20,18 @@
   }
   
   .abstract .admonition-title{
-      background-color:#CCCC00 !important;
-      color:white;
-  }
-  .admonition.abstract{
-      border-left: .2rem solid #939C00 !important;
-  }
-  
-  .abstract > .admonition-title::before{
-      background-color:white !important;
-  }
+    background-color:#CCCC00 !important;
+    color:white;
+    }
+    .admonition.abstract{
+        
+        border: none;
+        font-size: 1.0em;
+    }
+
+    .abstract > .admonition-title::before{
+        background-color:white !important;
+    }
   
   .md-typeset [type="checkbox"]:checked + .task-list-indicator::before {
       background-color:#CCCC00 !important;
@@ -130,6 +133,18 @@
         transform: translate(-100%, 0);
 }
 
+    .md-nav__item {
+        font-size: 1.15em;
+    }
+
+    .md-nav__title {
+        font-size: 1.3em;
+    }
+
+    .md-nav__source {
+        background-color: #CCCC00;;
+    }
+    
    .green {
      font-size: 1.3em;
      color:#CCCC00;

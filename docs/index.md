@@ -7,12 +7,7 @@ Informationen rund um den Fachbereich Informatik der GBS St.Gallen für:
 - [x] Informatik-Lernende und 
 - [x] deren Lehrbetriebe. 
 
-Bei generellen Fragen wenden Sie sich an den (Klassen-)Lehrer.
+Bei generellen Fragen wenden Sie sich an die (Klassen-)Lehrperson.
 
-**Kontakt Fachbereichsleiter:**<br>
-Oliver Lux <br>
-Demutstrasse 115 <br> 
-9012 St.Gallen <br>
-Telefon: 058 228 26 80 <br>
-E-Mail: oliver.lux@gbssg.ch
+
 

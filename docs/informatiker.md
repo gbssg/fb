@@ -1,5 +1,5 @@
 # Informatiker/in - Applikations- und Plattformentwickler/in EFZ
 
-!!! example "Downloads"
+!!! abstract "Downloads"
 
-    - Download PDF interner Lehrplan
+    :fontawesome-solid-file-pdf: [Download PDF interner Lehrplan](downloads/2021-2025_Inform_IntLP_A_2023-01-27.pdf)

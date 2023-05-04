@@ -7,7 +7,7 @@ nav:
   - Willkommen: index.md
   - Allgmeine Informationen:
     - Modulinformationen: modulinformationen.md
-    - Leistungsbeurteilungsvorgaben (LBV): lbv.md
+    - Leistungsbeurteilungs-vorgaben (LBV): lbv.md
     - Lizenzen: lizenzen.md
     - BYOD: byod.md
     - Weiterführende Links: links.md
@@ -34,6 +34,9 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.superfences
   - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.arithmatex:
       generic: true
   - admonition

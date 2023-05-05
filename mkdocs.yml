@@ -12,12 +12,15 @@ nav:
     - BYOD: byod.md
     - Kontakt: kontakt.md
     - Weiterführende Links: links.md
-  - Informatiker EFZ:
-    - Applikations- und Plattformentwicklung: informatiker.md
+  - Informatiker/in EFZ:
+    - Schuljahr 2023/24: 2023_inf.md
+    - Downloads: informatiker.md
   - ICT-Fachfrau/-mann EFZ:
-    - Informationen: ict.md
+    - Schuljahr 2023/24: 2023_ict.md
+    - Downloads: ict.md
   - Entwickler/in digitales Business EFZ:
-    - Aktueller Stand: edb.md
+    - Schuljahr 2023/24: 2023_edb.md
+    - Downloads: edb.md
 
 theme:
   name: material

@@ -18,9 +18,9 @@ nav:
   - ICT-Fachfrau/-mann EFZ:
     - Schuljahr 2023/24: 2023_ict.md
     - Downloads: ict.md
-  - Entwickler/in digitales Business EFZ:
-    - Schuljahr 2023/24: 2023_edb.md
-    - Downloads: edb.md
+#  - Entwickler/in digitales Business EFZ:
+#    - Schuljahr 2023/24: 2023_edb.md
+#    - Downloads: edb.md
 
 theme:
   name: material

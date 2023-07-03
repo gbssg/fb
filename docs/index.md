@@ -6,7 +6,6 @@ Informationen rund um den Fachbereich Informatik der GBS St.Gallen für Informat
 
 Bei generellen Fragen wenden Sie sich an die (Klassen-)Lehrperson.
 
-:flame: <mark>Ab Schuljahr 2023/24 ist das GBS Schulstandort für die Entwickler/in digitales Business EFZ</mark><br>
 :flame: <mark>IMS-T startet ab Schuljahr 2023/24 am GBS</mark>
 
 

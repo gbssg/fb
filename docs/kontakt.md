@@ -1,4 +1,5 @@
 # Kontakt Fachbereich Informatik GBS St.Gallen
+Gewerbliches Berufs- und Weiterbildungszentrum St.Gallen
 Oliver Lux <br>
 Demutstrasse 115 <br> 
 9012 St.Gallen <br>

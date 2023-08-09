@@ -1,6 +1,6 @@
 site_name: Informationen Fachbereich Informatik
 site_url: "https://fb.informatik.sg"
-repo_url: "https://github.com/gbssg/fb"
+# repo_url: "https://github.com/gbssg/fb"
 edit_uri: "blob/main/docs/"
 
 nav:
